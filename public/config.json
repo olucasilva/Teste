@@ -1,0 +1,4 @@
+{
+    "DEPLOYER_URL": "http://next.blaise.com.br:50000",
+    "DEPLOYER_WS": "ws://next.blaise.com.br:50000"
+}
